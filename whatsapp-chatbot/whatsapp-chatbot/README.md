@@ -183,7 +183,7 @@ curl http://localhost:8080/health
 
 ## 👤 Author
 
-**[Your Name]**  
+G Swathi  
 Java Developer Intern Applicant — Jarurat Care  
 
 ---
